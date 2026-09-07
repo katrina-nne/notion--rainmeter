@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Personal Notion data
+data/events.json
+
+# Generated dashboard data
+@Resources/Data/dashboard_variables.inc
+data/dashboard_variables.inc
+
+# Secrets
+config.py
+.env
+*.env
+token.txt
+secret.txt
